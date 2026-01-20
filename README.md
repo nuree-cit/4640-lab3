@@ -14,5 +14,4 @@ https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-subnet-attribute.htm
 
 - create bucket using s3api
 https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html
-*Bucket name should be unique!*
 
