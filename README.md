@@ -1,6 +1,8 @@
 ## Members
 Nuree Na
+
 Noppanat Sripan
+
 Monte Lee
 
 ## References
@@ -13,9 +15,4 @@ https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-subnet-attribute.htm
 - create bucket using s3api
 https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html
 *Bucket name should be unique!*
-*
-
-To delete bucket
-
-```aws s3api delete-bucket --bucket <your-bucket-name> --region us-west-2```
 
