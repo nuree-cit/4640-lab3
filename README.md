@@ -1,6 +1,6 @@
 ## Members
 Nuree Na
-Tom "the Rich" Sripan
+Noppanat Sripan
 Monte Lee
 
 ## References
